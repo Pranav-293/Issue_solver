@@ -15,7 +15,8 @@ const createIssue = async (e) =>{
 
     await fetch("http://localhost:3000/Issues",{
         method : "POST",
-        body : JSON.stringify(doc)
+        body : JSON.stringify(doc),
+        headers: {'Content-Type': 'application/json' }
     });
 
     window.location.replace('/index.html');

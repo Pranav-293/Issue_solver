@@ -1,32 +1,40 @@
 {
-    "Issues":[
-        {
-            "id" : 1,
-            "description" : "Bad infrastructure of college",
-            "department" : "College staff",
-            "related" : "Infrastructure",
-            "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
-            "likes" : 18,
-            "image" : "images/in.jpg"
-        },
-        {
-            "id" : 2,
-            "description" : "Ragging in college",
-            "department" : "Students department",
-            "related" : "Bullying and Ragging",
-            "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
-            "likes" : 30,
-            "image" : "images/ragging.jpg"
-        },
-        {
-            "id" : 3,
-            "description" : "Bad infrastructure of college",
-            "department" : "College staff",
-            "related" : "Infrastructure",
-            "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
-            "likes" : 18,
-            "image" : "images/infrastructure.jpg"
-        }
-
-    ]
+  "Issues": [
+    {
+      "id": 1,
+      "description": "Bad infrastructure of college",
+      "department": "College staff",
+      "related": "Infrastructure",
+      "issue": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "likes": 18,
+      "image": "images/in.jpg"
+    },
+    {
+      "id": 2,
+      "description": "Ragging in college",
+      "department": "Students department",
+      "related": "Bullying and Ragging",
+      "issue": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "likes": 30,
+      "image": "images/ragging.jpg"
+    },
+    {
+      "id": 3,
+      "description": "Bad infrastructure of college",
+      "department": "College staff",
+      "related": "Infrastructure",
+      "issue": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "likes": 18,
+      "image": "images/infrastructure.jpg"
+    },
+    {
+      "department": "College department",
+      "description": "Time pass in colleges.",
+      "related": "Other",
+      "issue": "We need online classes.",
+      "likes": 0,
+      "image": "images/defaultIssue.jpg",
+      "id": 4
+    }
+  ]
 }

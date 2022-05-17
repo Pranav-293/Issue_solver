@@ -114,3 +114,14 @@ background: rgba(0, 0, 0, 0.43);
     width: 85mm;
     margin: 5mm;
 }
+.all_issues .row{
+    margin: 4px, 4px;
+        padding: 4px;
+        width: 1200px;
+        overflow-x: auto;
+        overflow-y: hidden;
+        white-space: nowrap;
+}
+.all_issues{
+    align-items: stretch;
+}

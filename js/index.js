@@ -13,7 +13,7 @@ const renderIssues = async()=>{
           <img src=${element.image} class="card-img-top" alt="issue_image">
           <div class="card-body">
             <h5 class="card-title">${element.description}</h5>
-            <p class="card-text">${element.description}</p>
+            <p class="card-text">${element.issue}</p>
           </div>
           <div class="card-footer">
             <small class="text-muted"><button onclick=""><img src="images/like.png" alt=""> ${element.likes} &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; </button></small>
