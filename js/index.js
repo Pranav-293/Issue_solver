@@ -1,6 +1,6 @@
 const container = document.querySelector(".IssuesArray");
 const renderIssues = async()=>{
-    let uri = "http://localhost:3000/Issues";
+    let uri = "http://localhost:3000/Issues?_sort=likes&_order=desc";
     const res = await fetch(uri);
     const issues = await res.json();
    

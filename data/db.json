@@ -16,7 +16,7 @@
             "related" : "Bullying and Ragging",
             "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
             "likes" : 30,
-            "image" : "images/infrastructure.jpg"
+            "image" : "images/ragging.jpg"
         },
         {
             "id" : 3,
@@ -25,7 +25,7 @@
             "related" : "Infrastructure",
             "issue" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
             "likes" : 18,
-            "image" : "images/ragging.jpg"
+            "image" : "images/infrastructure.jpg"
         }
 
     ]
